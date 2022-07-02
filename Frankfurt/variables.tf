@@ -1,6 +1,6 @@
 # //AWS Configuration
-# variable access_key {}
-# variable secret_key {}
+variable access_key {"acess key here"}
+variable secret_key {"secret acces key here"}
 
 variable "region" {
   default = "eu-central-1"
